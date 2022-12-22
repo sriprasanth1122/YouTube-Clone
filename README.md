@@ -7,9 +7,8 @@ Images of the YouTube-Clone.
 ![YouTube-Clone1](https://user-images.githubusercontent.com/107243584/209063684-a34b3132-aa22-4430-841d-c37bfc37bde5.png)
 
 Results of search
-
-![YouTube-Clone2](https://user-images.githubusercontent.com/107243584/209063889-f64ff970-002b-4723-a91d-94122eb4342d.png)
+![YouTube-2](https://user-images.githubusercontent.com/107243584/209065664-2edcfe5f-a404-4c7e-b733-078cb512f0da.png)
 
 Playing a video
 
-![YouTube-Clone2](https://user-images.githubusercontent.com/107243584/209064600-95680874-3f27-4e5e-ad71-8d32ec9a021b.png)
+![YouTube-Clone3](https://user-images.githubusercontent.com/107243584/209065710-08b5c876-9a9f-45ed-a2f6-1bed40b2cf44.png)
